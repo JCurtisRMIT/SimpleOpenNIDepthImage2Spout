@@ -9,4 +9,7 @@ Simple Open NI Processing Library https://github.com/totovr/SimpleOpenni/tree/Pr
 <br>Spout Processing Library (install via Processing Package Manager) 
 <br>Kinect SDK version 1.7 https://www.microsoft.com/en-au/download/details.aspx?id=36996 
 
+
+To use with MaxMSP:
+Install Spout via the MaxMSP Package Manager
 </b>
