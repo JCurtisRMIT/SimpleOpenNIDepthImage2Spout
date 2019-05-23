@@ -2,7 +2,7 @@
 
 Capture the depth map of the Kinect 360 Sensor as a texture in other software using Spout
 
-Dependencies:
+<b> Dependencies:</b>
 
 Simple Open NI Processing Library https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6 
 Spout Processing Library (install via Processing Package Manager) 
