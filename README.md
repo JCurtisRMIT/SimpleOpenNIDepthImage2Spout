@@ -1,7 +1,7 @@
 # SimpleOpenNIDepthImage2Spout
 
 Capture the depth map of the Kinect 360 Sensor as a texture in other software using Spout<br>
-<b>NB</br> Spout is only for Windows, for OSX use Syphon.
+<b>NB</b> Spout is only for Windows, for OSX use Syphon.
 
 <b> Dependencies:
 
